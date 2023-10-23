@@ -30,22 +30,8 @@ D1 : Role and Responsibilities
 
 | Members | Deliverable 1 |
 | ------------- | ------------- |
-| Bhargav Patel  | Problem 1 : Writing 2 Goal Specific
-Questions Problem 2 : Creating a
-Use Case Diagram
-Writing Description of use cases  |
-| Brinda Patel  | Problem 1 : Writing 2 Goal Specific
-Questions Problem 2 : Creating a
-Use Case Diagram
-Writing Description of use cases  |
-| Darsh Patel  | Problem 1 : Choosing the GOAL &
-Writing 2 Goal Specific Questions Problem 2 : Writing Description
-of Use Cases
-LaTeX Documentation  |
-| Krishna Patel  | Problem 1 :Writing 2 Goal Specific
-Questions Problem 2 : Writing Description
-of use cases
-LaTeX Documentation  |
-| Saloni Patel   | Problem 1 : Listing 2 Goal Specific
-Questions Problem 2 : LaTeX Documentation
-Writing Description of use cases  |
+| Bhargav Patel  | Problem 1 : Writing 2 Goal Specific Questions <br />Problem 2 : Creating a Use Case Diagram Writing Description of use cases  |
+| Brinda Patel  | Problem 1 : Writing 2 Goal Specific Questions <br />Problem 2 : Creating a Use Case Diagram Writing Description of use cases  |
+| Darsh Patel  | Problem 1 : Choosing the GOAL & Writing 2 Goal Specific Questions <br />Problem 2 : Writing Description of Use Cases LaTeX Documentation  |
+| Krishna Patel  | Problem 1 :Writing 2 Goal Specific Questions <br />Problem 2 : Writing Description of use cases LaTeX Documentation  |
+| Saloni Patel   | Problem 1 : Listing 2 Goal Specific Questions <br />Problem 2 : LaTeX Documentation Writing Description of use cases  |
