@@ -40,7 +40,7 @@ D2 : Role and Responsibilities
 | Members | Deliverable 2 |
 | ------------- | ------------- |
 | Bhargav Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter  |
-| Brinda Patel  | Writing Description for LaTeX Documentation   |
-| Darsh Patel  | Writing Description for LaTeX Documentation  |
+| Brinda Patel  | Writing Description for LaTeX Documentation & Testing  |
+| Darsh Patel  | Writing Description for LaTeX Documentation & Testing  |
 | Krishna Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter |
 | Saloni Patel   | METRICSTICS Implementation Using Python & GUI with Tkinter |
