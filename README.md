@@ -35,3 +35,12 @@ D1 : Role and Responsibilities
 | Darsh Patel  | Problem 1 : Choosing the GOAL & Writing 2 Goal Specific Questions <br />Problem 2 : Writing Description of Use Cases LaTeX Documentation  |
 | Krishna Patel  | Problem 1 :Writing 2 Goal Specific Questions <br />Problem 2 : Writing Description of use cases LaTeX Documentation  |
 | Saloni Patel   | Problem 1 : Listing 2 Goal Specific Questions <br />Problem 2 : LaTeX Documentation Writing Description of use cases  |
+
+D2 : Role and Responsibilities
+| Members | Deliverable 2 |
+| ------------- | ------------- |
+| Bhargav Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter  |
+| Brinda Patel  | Writing Description for LaTeX Documentation   |
+| Darsh Patel  | Writing Description for LaTeX Documentation  |
+| Krishna Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter |
+| Saloni Patel   | METRICSTICS Implementation Using Python & GUI with Tkinter |
