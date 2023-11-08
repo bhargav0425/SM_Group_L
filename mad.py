@@ -9,3 +9,5 @@ class MAD:
         for x in data:
             total_deviation += abs(x - mean)
         return total_deviation / len(data)
+    
+##new
