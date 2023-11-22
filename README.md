@@ -39,8 +39,9 @@ D1 : Role and Responsibilities
 D2 : Role and Responsibilities
 | Members | Deliverable 2 |
 | ------------- | ------------- |
-| Bhargav Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter  |
-| Brinda Patel  | Writing Description for LaTeX Documentation & Testing  |
-| Darsh Patel  | Writing Description for LaTeX Documentation & Testing  |
-| Krishna Patel  | METRICSTICS Implementation Using Python & GUI with Tkinter |
-| Saloni Patel   | METRICSTICS Implementation Using Python & GUI with Tkinter |
+| Bhargav Patel  | Problem 4 : Implemented Login and Standard deviation files of Python <br /> Problem 6 : Calculation and LaTex Documentation|
+| Brinda Patel  | Problem 4 : Implemented Login and Standard deviation files of Python  <br /> Problem 8 : Calculation and LaTex Documentation|
+| Darsh Patel  | Problem 4 : Problem 4: Implemented Maximum file of Python  <br /> Problem 5,6 : Calculation and LaTex Documentation|
+| Krishna Patel  | Problem 4 : Implemented Mean and Median files of Python  <br /> Problem 7 : Calculation and LaTex Documentation|
+| Saloni Patel   | Problem 4 : Implemented Base, Main and mean average deviation files  <br /> Problem 3,8 : Calculation and LaTeX Documentation
+|
